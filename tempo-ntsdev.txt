@@ -1,6 +1,13 @@
 
 
 TOPIC :	
+
+Tempo-list
+~~ ID TAPPING SYSTEM
+	Target Audience : Students of Asia Pacific College specifically Senior High Students
+
+~~ Beep Card, LRT+MRT Trip System
+	Target Audience : All Beep Card users and all commuters traveling via MRT/LRT
 ------------------------------------------
 Adviser : 
 
