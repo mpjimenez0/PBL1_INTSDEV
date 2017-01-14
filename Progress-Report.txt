@@ -1,0 +1,24 @@
+WEEK # 1
+  - January 10, 2017 (Tuesday)
+	Location: Rm.306
+	Time: 09:30 - 11:30
+	Agenda: Formation of groups
+	Output: finalized group line up and roles
+  - January 12, 2017 (Wednesday)
+	Location: 
+	Time: 19:00 - 23:30
+	Agenda: Topic Brainstorming
+	Outputs: 2 Topics (ID Tapping System in Asia Pacific College, Online LRT-MRT Trip Tracking System) and the formation of the GitHub Repository
+  - January 13, 2017 (Friday)
+	Location: Rm.306
+	Time: 09:30 - 11:30
+	Agenda: Group Name and topic brainstorming
+	Outputs: Finalized group name and additional topic (Computer Laboratory Management System)
+
+WEEK # 2
+
+WEEK # 3
+
+WEEK # 4
+
+WEEK # 5
