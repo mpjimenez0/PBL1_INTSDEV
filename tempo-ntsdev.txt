@@ -1,13 +1,27 @@
 
 
-TOPIC :	
+TOPIC :	 ???
 
 Tempo-list
-~~ ID TAPPING SYSTEM
+~~ ID TAPPING SYSTEM (ID Tapping System in Asia Pacific College / The Improvement of ID Tapping System to heighten user experience)
 	Target Audience : Students of Asia Pacific College specifically Senior High Students
+	Related Concept: IoE (Internet of Everything)
+	Feats: 	ID Tapping upon campus entry and exit
+		ID Tapping to open lockers
+		ID Tapping upon borrowing materials from the library or from the ITRO
+		Integration of the Tap-to-pay to the IDs
 
-~~ Beep Card, LRT+MRT Trip System
+~~ Online LRT-MRT Trip Tracking System
 	Target Audience : All Beep Card users and all commuters traveling via MRT/LRT
+	Feats:  Live representation of the MRT and LRT trips
+		Countdown to reach a certain station
+		Online checking of the Beep Card Balance
+
+~~ Computer Lab Management System
+	Target Audience: Computer Laboratories in Asia Pacific College
+	Feats: 	Live view of the students' screens compiled in one screen
+		Capability to "disable" the use of the said computers
+		** more manipulating functions
 ------------------------------------------
 Adviser : 
 
