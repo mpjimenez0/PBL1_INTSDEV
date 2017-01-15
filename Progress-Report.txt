@@ -5,7 +5,7 @@ WEEK # 1
 	Agenda: Formation of groups
 	Output: finalized group line up and roles
   - January 12, 2017 (Wednesday)
-	Location: 
+	Location: -facebook messenger-
 	Time: 19:00 - 23:30
 	Agenda: Topic Brainstorming
 	Outputs: 2 Topics (ID Tapping System in Asia Pacific College, Online LRT-MRT Trip Tracking System) and the formation of the GitHub Repository
@@ -16,6 +16,11 @@ WEEK # 1
 	Outputs: Finalized group name and additional topic (Computer Laboratory Management System)
 
 WEEK # 2
+  - Date (Day)
+	Location: 
+	Time: 
+	Agenda: 
+	Outputs: 
 
 WEEK # 3
 
