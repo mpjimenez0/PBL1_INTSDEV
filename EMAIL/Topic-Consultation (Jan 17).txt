@@ -1,0 +1,24 @@
+SENT TO: manuels@apc.edu.ph
+DATE: Jan 17, 2016
+SUBJECT: SNTSDEV-Topic Consultation
+CONTENT:
+Good Evening Sir,
+	We would like to hear your thoughts about the topics that we've already discussed among ourselves, the topics and their short description are listed below.
+	1. ID Tapping System
+		- the implementation of the ID tapping system in Asia Pacific College
+		- the improvement of ID Tapping System to heighten user experience 
+		description: this research will contain all the possible innovations that can be integrated with the ID tapping system like the tap-to-pay in one ID, also, this can contain the effects of the ID Tapping System to the Asia Pacific College Community (Students, Parents, and Employees)
+	
+	2. Online LRT-MRT Tracking System
+		description: an online web app that would help the regular passenger to view the amount left inside his beep card, it can also display the ETA of a train to a certain station.
+
+	3. Computer Lab Management
+		- the implementation of a computer lab management software in Asia Pacific College
+		description: this research will contain all the possible effects that might happen to the Asia Pacific College community (Students and Instructors) when the Computer Lab Management software is introduced.
+
+Thank you for your consideration!
+
+
+Jimenez, Marc Adrian P.
+Project Manager, Thomas and Friends
++639260198935
