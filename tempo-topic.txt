@@ -1,0 +1,22 @@
+1/20/17
+Main Technology: RFID / NFC
+
+Topics:
+ > NFC enabled smartphones as LRT/MRT Beep Card
+ > RFID convergence with the NFC functionaities
+ > 
+
+ > Target Audience : Mongrels / Commoners
+ > Target Functions : Daily Used Functions such as Commuting, Amusement Rides
+ > Why? 
+	= For Amusement Rides, the RFID functions upon entering the gates of the rides, each entry and exit have timestamps so that the company can know the peak hours of that particular ride.
+	= For the Buses, they have 
+
+	** Risks = 
+	** To research 
+
+ Analysis of the RFID technology and Systems of SM
+
+
+
+
