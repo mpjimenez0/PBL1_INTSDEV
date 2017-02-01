@@ -14,6 +14,10 @@ repository for INTSDEV
 - [PREVIOUS PROJECTS](http://projects2.apc.edu.ph/wiki/index.php/Main_Page)
 
 ### MAIN GUIDELINES ###
+2. Kapag mag co-commit kayo, i-chat nyo sa FB na nag commit kayo.
+
+3. Kapag gagastos kayo na project related, itago nyo yung receipt para mapa reimburse natin.
+
 1. Pag mag e-email tayo sa Advisor or sa Consultants (or kung sino man), gamitin natin yung school email, also, wag niyo kalimutan mag CC (wag BCC) ng mga groupmates (use these emails)
 
 | NAME | EMAIL | POSITION |
@@ -26,7 +30,3 @@ repository for INTSDEV
 | PROFESSOR | NAME | POSITION |
 | --------- | ---- | -------- |
 | Manuel Sebastian S. Sanchez | manuels@apc.edu.ph | Thesis Head/Instructor |
-
-2. Kapag mag co-commit kayo, i-chat nyo sa FB na nag commit kayo.
-
-3. Kapag gagastos kayo na project related, itago nyo yung receipt para mapa reimburse natin.
