@@ -17,13 +17,16 @@ WEEK # 1
 
 WEEK # 2
   - Date (Day)
-	Location: 
-	Time: 
-	Agenda: 
-	Outputs: 
+	Location:
+	Time:
+	Agenda:
+	Outputs:
+  week summary : made topics that were surprisingly failed sir seans standards namely RFID, etc
 
 WEEK # 3
+  week summary : napa approve ata ng isang topic? namely E-Commerce?? then brainstorming for another one namely home automation system that did not really went well kase fucking broad pa daw sya tas di namin magawan ng mapping tree. cry. pero, ays lang, it was a good week kase may na approve na yay!!
 
 WEEK # 4
+  week summary : this week, another topic was approved by sir sean namely Biometrics. tas start na kami sa research ng related lit. suuweg. more to go (1/2)
 
 WEEK # 5
