@@ -1,0 +1,28 @@
+E-Commerce : The Impact of the Internet to Carousel/Shopee PH Entrepreneurs to Increase Profit and Growth  **tentative << basta online platforms used to sell products
+
+Target Audience : Entrepreneurs using Online Platforms to Advertise and Sell their products
+
+Problem : "What are the opportunities that the Entrepreneurs encountered upon migrating to Online Platforms?"
+					"Did it increase the consumers' interest in their product?"
+					"What are the effects it did to the Business?"
+					"What are the effects it did to the Entrepreneur?" ->> his/her time became much more flexible
+
+Additional Info
+	> Shopee, Lazada, MetroDeal, Zalora, Carousel, Amazon, (INSTAGRAM?)
+	> comparison of the traditional way of merchandising vs when migrated in an online platform
+
+---------------------------------------------------------------------------
+
+RESEARCH :
+ >Definitions
+	Commerce - the buying and selling of goods and services
+	E-Commerce (Electronic-Commerce) - the transaction of buying and selling online, the buying and selling of goods and products on the internet
+
+ >RLs
+		title: "DTI expects stronger collaboration between the government and the private sector as it launches Philippine E-Commerce Roadmap 2016-2020"
+			source: http://www.dti.gov.ph/programs-projects/e-commerce/84-main-content/eco-news/9464-dti-expects-stronger-collaboration-between-the-government-and-the-private-sector-as-it-launches-philippine-e-commerce-roadmap-2016-2020
+			content: The Philippine Government is taking action to help the MSMEs (that makes up 99.6% of the Philippines' Enterprises) by releasing a E-Commerce Roadmap. The E-Commerce Roadmaps main objective is to increase their contribution to the Philippines' GDP (gross domestic product, meaning the measure of the market value of all goods sold yearly/quarterly) from 10% to 20% by 2020.
+		title: "Influence and Scope of E-Commerce in Tier II and Tier III Cities"
+			source: EBSCO-Host LaSalle = http://0-eds.a.ebscohost.com.lib1000.dlsu.edu.ph/ehost/detail/detail?vid=6&sid=cf4f0d8b-012c-4b26-b534-98d1d55afb5e%40sessionmgr4006&hid=4113&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#db=bth&AN=118491974
+			content: Growth was driven due to the rapid technology adaptation led by the increase use of devices such as smartphones and tablets, and having access to the internet via broadband,3G,LTE, etc, that led to an increased online consumer base
+			notes: Cities in India are classified into 3 main groups namely Tier-I(X), Tier-II(Y), Tier-III(Z), Tier-I being the highest.

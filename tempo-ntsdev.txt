@@ -23,6 +23,15 @@ Tempo-list
 	Feats: 	Live view of the students' screens compiled in one screen
 		Capability to "disable" the use of the said computers
 		** more manipulating functions
+
+
+>> Approved Topics
+ 	1. E-Commerce : The Impact of the Internet to Carousel/Shopee PH Entreprenuers to Increase Profit and Growth
+		Target Audience : Carousel or Shopee Entreprenuers	
+
+
+	2. Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
+		Target Audience : Metro Manila Residents with Palmar Hyperhidrosis that owns a Smartphone
 ------------------------------------------
 Adviser : 
 
