@@ -1,4 +1,4 @@
- 	
+
 
 TOPIC :	 ???
 
@@ -10,7 +10,7 @@ Tempo-list
 		ID Tapping to open lockers
 		ID Tapping upon borrowing materials from the library or from the ITRO
 		Integration of the Tap-to-pay to the IDs
-	Title: The Potential Effects of an Implemented ID Tapping System in an 
+	Title: The Potential Effects of an Implemented ID Tapping System in an
 
 ~~ Online LRT-MRT Trip Tracking System
 	Target Audience : All Beep Card users and all commuters traveling via MRT/LRT
@@ -27,13 +27,13 @@ Tempo-list
 
 >> Approved Topics
  	1. E-Commerce : The Impact of the Internet to Carousel/Shopee PH Entreprenuers to Increase Profit and Growth
-		Target Audience : Carousel or Shopee Entreprenuers	
+		Target Audience : Carousel or Shopee Entreprenuers
 
 
 	2. Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
 		Target Audience : Metro Manila Residents with Palmar Hyperhidrosis that owns a Smartphone
 ------------------------------------------
-Adviser : 
+Adviser :
 
 Consultants :
 ------------------------------------------
@@ -41,3 +41,12 @@ Team Leader : 	Jimenez, Marc Adrian
 Members : 	Coronel, Sherine Jane
 		Delacruz, Joey Bernadette
 		Llantos, Joneil Thom
+
+
+CAPSTONE FEE
+  CORONEL     1,705.00
+  DELA CRUZ   1,655.00
+  JIMENEZ     1,705.00
+  LLANTOS     1,705.00
+  ---------------------
+  TOTAL       6,770.00
