@@ -50,3 +50,12 @@ CAPSTONE FEE
   LLANTOS     1,705.00
   ---------------------
   TOTAL       6,770.00
+
+
+TIPS FOR TITLE DEFENSE :
+	Give a good introduction for the topic.
+
+  Example : "The Artificial Intelligence for Battleship Game using Genetic Algorithm"
+    order of explanation in the introduction:
+      > Artificial Intelligence --> Dig deeper
+      > slowly introduce the implementation of AI to the Game
