@@ -1,16 +1,32 @@
-Title : Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
+Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
 
 Target Audience : Metro Manila Residents with Palmar Hyperhidrosis that owns a Smartphone
 
-Problem : "How would people with Palmar Hyperhidrosis utilize the functions of their smartphones namely the FINGERPRINT AUTHENTICATION and the TOUCH-SENSITIVE DISPLAY"
+Problem : "How would people with Palmar Hyperhidrosis utilize the functions of their smartphones namely the FINGERPRINT AUTHENTICATION and the TOUCH-SENSITIVE DISPLAY" >> afterwards, effects and reasons
+          "general : Why does the fingerprint authentication feature doesn't accurately detect the fingerprint of the user."
+          -- addtl info "How does the phone detect if the finger is wet upon using the fingerprint feature."
+          -- addtl info "What is the cause of Palmar Hyperhidrosis?"
+          -- addtl info "physically, does the scratches from the button affect the recognition of fingerprints"
+          "Can the phone be unlocked even though the registered finger is wet?"
 
 Additional Info
  > Waterproof / Water Resistant phones >> they have to work properly when fully submerged in water because it defeats the purpose of the phone being Waterproof / Water Resistant
  > Will guide the Latest Trend in Smartphones wherein they are Water and Dust Resistant
 
- -------------------------------------------------------------------------
+---------------------------------------------------------------------------
+
+Title:
+Keywords:
+Short Title:
+Rationale: *why this topic? (2-3 paragraphs)
+Research Questions:
+Theoretical & Conceptual Framework: >> TF: Concepts of keywords(not proven) -- definitions *5 theories about summative evaluation* *self-checkout machines* CF: make a diagram using the different TFs
+Research Design:
+Statistical Treatment:
+
+-------------------------------------------------------------------------
 
  RESEARCH :
  	>Definitions
 		Palmar Hyperhidrosis - The medical term for having sweaty palms
-		Biometrics
+		Biometrics - Measurement of Physical Characteristics using technology

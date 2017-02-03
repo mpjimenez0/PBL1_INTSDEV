@@ -49,7 +49,10 @@ CAPSTONE FEE
   JIMENEZ     1,705.00
   LLANTOS     1,705.00
   ---------------------
-  TOTAL       6,770.00
+  TOTAL     P 6,770.00
+						- 3(400.00) = (1,200.00)2 = 2400 >> for the panelists
+						------------
+							4,370.00
 
 
 TIPS FOR TITLE DEFENSE :
@@ -57,5 +60,13 @@ TIPS FOR TITLE DEFENSE :
 
   Example : "The Artificial Intelligence for Battleship Game using Genetic Algorithm"
     order of explanation in the introduction:
-      > Artificial Intelligence --> Dig deeper
-      > slowly introduce the implementation of AI to the Game
+      > Artificial Intelligence --> Dig deeper (Describe AI)
+      > Describing what AI in terms of the topic choice
+      > Initially explaining the game
+        - problems
+        - structure
+        - strategies
+      > Improvements / Recommendations pertaining to the game
+    order for the statement of the problem
+      > data gathering
+      > review of lit --> how is it different from other people
