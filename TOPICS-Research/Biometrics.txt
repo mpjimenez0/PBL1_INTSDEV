@@ -2,16 +2,24 @@ Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones
 
 Target Audience : Metro Manila Residents with Palmar Hyperhidrosis that owns a Smartphone
 
-Problem : "How would people with Palmar Hyperhidrosis utilize the functions of their smartphones namely the FINGERPRINT AUTHENTICATION and the TOUCH-SENSITIVE DISPLAY" >> afterwards, effects and reasons
+Problem : "How would people with Palmar Hyperhidrosis utilize the functions of their smartphones namely the FINGERPRINT AUTHENTICATION and the TOUCH-SENSITIVE DISPLAY?" >> afterwards, effects and reasons
+          ** What are the disadvantages of having Palmar Hyperhidrosis in using Smartphones with fingerprint authentication and touch sensitive display
           "general : Why does the fingerprint authentication feature doesn't accurately detect the fingerprint of the user."
           -- addtl info "How does the phone detect if the finger is wet upon using the fingerprint feature."
           -- addtl info "What is the cause of Palmar Hyperhidrosis?"
           -- addtl info "physically, does the scratches from the button affect the recognition of fingerprints"
           "Can the phone be unlocked even though the registered finger is wet?"
+          "Why do "
 
 Additional Info
  > Waterproof / Water Resistant phones >> they have to work properly when fully submerged in water because it defeats the purpose of the phone being Waterproof / Water Resistant
  > Will guide the Latest Trend in Smartphones wherein they are Water and Dust Resistant
+
+Main Goal:
+  --> To study the user experience of people with Palmar Hyperhidrosis with their Smartphones
+
+ TOTAL: lahat may palmar hyperhidrosis
+     Touch Screen Smartphone     Touch Screen Smartphone w/ Touch-ID
 
 ---------------------------------------------------------------------------
 
