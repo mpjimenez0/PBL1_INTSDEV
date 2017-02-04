@@ -15,9 +15,9 @@ Additional Info
 
 ---------------------------------------------------------------------------
 
-Title:
-Keywords:
-Short Title:
+Title: Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
+Keywords: Palmar Hyperhidrosis, Biometrics (specifically Fingerprint Authentication)
+Short Title: The use of Smartphones to people with Sweaty Palms
 Rationale: *why this topic? (2-3 paragraphs)
 Research Questions:
 Theoretical & Conceptual Framework: >> TF: Concepts of keywords(not proven) -- definitions *5 theories about summative evaluation* *self-checkout machines* CF: make a diagram using the different TFs
