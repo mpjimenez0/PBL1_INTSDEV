@@ -27,6 +27,7 @@ Title: E-Commerce : The Impact of the Internet to Carousel/Shopee PH Entrepreneu
 Keywords: E-Commerce, Increase Profit and Growth
 Short Title:
 Rationale: *why this topic? (2-3 paragraphs)
+		>> The sudden burst on the amount of Online Shops in the Philippines is indeed overwhelming, this made us researchers wonder, why did these entrepreneurs even considered migrating -- if not, extended -- their business to the internet? Problematic for some, "Eureka" for some, but how does it really affect the people providing, consuming, and the country they're in?
 Research Questions:
 Theoretical & Conceptual Framework: >> TF: Concepts of keywords(not proven) -- definitions *5 theories about summative evaluation* *self-checkout machines* CF: make a diagram using the different TFs
 Research Design:
@@ -51,3 +52,18 @@ RESEARCH :
 		title: “Adoption of E-commerce in Manila”
 			source: http://www.dlsu.edu.ph/conferences/dlsu_research_congress/2014/_pdf/proceedings/EBM-II-014-FT.pdf
 			content: The paper is about the factors that will make people go for e-commerce. The four factors are: Ease of Understanding, Personalization, Reliability, and Usability. The researchers conducted a survey for 200 people but only 170, or approximately 85%, of the people responded. The outcome of the study shows that the ease of understanding ecommerce systems, as well as the Personalization factor and the Reliability factor, are significant factors that would possibly make people adopt to e-commerce. Also, the usability factor was considered an insignificant factor that would make people adopt to e-commerce.
+		title: "Online shoppers cautioned - Department of Trade and Industry"
+			source: http://www.gov.ph/2015/07/14/online-shoppers-cautioned/
+			content: An estimated 34 Trillion Dollars were spent worldwide through online shopping, also Filipinos were said to be the 5th fastest growing online shoppers. Multiple situations are mentioned with their corresponding RA No violation. The article concluded with a list of shopping frauds instances.
+
+ >LAWS regarding E-COMMERCE
+ 	REFERENCES:
+		> E-COMMERCE ACT (Republic Act No. 8792):
+			http://unpan1.un.org/intradoc/groups/public/documents/apcity/unpan002710~1.pdf
+		> CONSUMER ACT (Republic Act No. 7394):
+		 	http://www.bu.edu/bucflp/files/2012/01/Consumer-Act-No.-7394-of-the-Philippines.pdf
+		> CYBERCRIME PREVENTION ACT (Republic Act No. 10175):
+			https://www.doj.gov.ph/files/cybercrime_office/Rules_and_Regulations_Implementing_Republic_Act_10175.pdf
+	NOTED:
+ 		1. Republic Act No. 8792 or the Electronic Commerce Act of 2000
+				Provides for penalties on computer hacking, introduction of viruses and piracy of copyrighted works of at least P100,000 and maximum commensurate to the damage incurred, and imprisonment of six (6) months to three (3) years, among others. Promotes e-commerce in the country, particularly in business-to-business and business-to-consumer transactions whereby business relations are enhanced and facilitated and consumers are able to find and purchase products online.
