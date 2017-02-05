@@ -47,3 +47,124 @@ Statistical Treatment:
     title: "A Survey of Wet and Wrinkled Finger Print Recognition Techniques"
       source : (LOCAL) TOPICS-Research\RESEARCH-Files\A Survey of Wet and Wrinkled Finger Print Recognition Techniques
       content: The researcher described the different types of fingerprints
+    title: "Diagnosis of palmar hyperhidrosis via questionnaire without physical examination"
+      source: http://www.sweathelp.org/pdf/Keller_Palmar%20HH.pdf
+      content: The researcher used different methodologies to determine and diagnose a person for Palmar Hyperhidrosis
+      > Questionnaire for Palmar Hyperhidrosis
+        Hyperhidrosis scale
+        Questions about distress caused by sweating of the hands.
+        How much distress do you experience when you:
+        1.
+        Shake hands with others?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        2.
+        Hold hands with a boyfriend/girlfriend/spouse?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        3.
+        Writing (by hand) on paper to complete examinations,
+        applications or other important documents?
+        (None) 0 12 3 4 5 6 7 8 9 10 (worst)
+        4.
+        Grasp heavy objects and/or tools?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        5.
+        Attempt to initiate intimate contact?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        6.
+        Turn knobs or faucets?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        7.
+        Drive a car?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        8.
+        Eat with forks, knives, or spoons?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        9.
+        Wear fabric, leather or rubber gloves?
+        (None) 0 12 3 4 5 6 7 8 9 10 (worst)
+        Questions related to sweating of your feet
+        10.
+        Put on socks or stockings?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        11.
+        Walk barefoot?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        12.
+        Wear sandals?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        13.
+        Wear high-heel shoes?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        Questions  related  to  sweating  from  areas  of  the  body
+        other than the hands and feet
+        14.
+        Sweat from your axilla (underarms)?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        15.
+        Sweat from other parts of the body other than hands
+        and axilla?
+        (None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+        Is yes, where (please describe)
+        ______________________
+    title: "Palmar hyperhidrosis: clinical, pathophysiological, diagnostic and therapeutic aspect"
+      source: http://www.scielo.br/pdf/abd/v91n6/0365-0596-abd-91-06-0716.pdf
+      content: Medicinal terms (tinamad ako basahin wako magets okay?? - marcla) and factors that affect Palmar Hyperhidrosis including Quality of Life and Treatments.
+-------------------------------------------------------------------------
+
+Questionnaire for Palmar Hyperhidrosis
+
+Hyperhidrosis scale
+Questions about distress caused by sweating of the hands.
+How much distress do you experience when you:
+1.
+Shake hands with others?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+2.
+Hold hands with a boyfriend/girlfriend/spouse?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+3.
+Writing (by hand) on paper to complete examinations,
+applications or other important documents?
+(None) 0 12 3 4 5 6 7 8 9 10 (worst)
+4.
+Grasp heavy objects and/or tools?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+5.
+Attempt to initiate intimate contact?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+6.
+Turn knobs or faucets?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+7.
+Drive a car?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+8.
+Eat with forks, knives, or spoons?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+9.
+Wear fabric, leather or rubber gloves?
+(None) 0 12 3 4 5 6 7 8 9 10 (worst)
+Questions related to sweating of your feet
+10.
+Put on socks or stockings?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+11.
+Walk barefoot?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+12.
+Wear sandals?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+13.
+Wear high-heel shoes?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+Questions  related  to  sweating  from  areas  of  the  body
+other than the hands and feet
+14.
+Sweat from your axilla (underarms)?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+15.
+Sweat from other parts of the body other than hands
+and axilla?
+(None) 0 1 2 3 4 5 6 7 8 9 10 (worst)
+Is yes, where (please describe)
+______________________
