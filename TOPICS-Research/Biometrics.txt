@@ -27,6 +27,8 @@ Title: Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smar
 Keywords: Palmar Hyperhidrosis, Biometrics (specifically Fingerprint Authentication)
 Short Title: The use of Smartphones to people with Sweaty Palms
 Rationale: *why this topic? (2-3 paragraphs)
+    >> The current trend in smartphones, the Fingerprint Authentication, this feature dramatically increased the level of security that one phone has, but another current trend in smartphones namely Water Resistance somehow revealed the flaws of the Fingerprint Authentication.
+    >> One of the researchers (who has Palmar Hyperhidrosis) experience the everyday struggles of using a Smartphone, specifically the Smartphones Touch Sensitive Display. The contradicting concept of a Water Resistant Smartphone that doesn't function well when wet sparked this idea.
 Research Questions:
 Theoretical & Conceptual Framework: >> TF: Concepts of keywords(not proven) -- definitions *5 theories about summative evaluation* *self-checkout machines* CF: make a diagram using the different TFs
 Research Design:
