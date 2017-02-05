@@ -24,7 +24,7 @@ Main Goal:
 ---------------------------------------------------------------------------
 
 Title: Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
-Keywords: Palmar Hyperhidrosis, Biometrics (specifically Fingerprint Authentication)
+Keywords: Palmar Hyperhidrosis, Biometrics (Fingerprint Authentication), Smartphones
 Short Title: The use of Smartphones to people with Sweaty Palms
 Rationale: *why this topic? (2-3 paragraphs)
     >> The current trend in smartphones, the Fingerprint Authentication, this feature dramatically increased the level of security that one phone has, but another current trend in smartphones namely Water Resistance somehow revealed the flaws of the Fingerprint Authentication.
