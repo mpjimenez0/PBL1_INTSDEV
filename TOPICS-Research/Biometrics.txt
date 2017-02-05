@@ -38,3 +38,10 @@ Statistical Treatment:
  	>Definitions
 		Palmar Hyperhidrosis - The medical term for having sweaty palms
 		Biometrics - Measurement of Physical Characteristics using technology
+  >RLs :
+    title: "Fingerprint Image Enhancement: Algorithm and Performance Evaluation"
+      source : https://www.researchgate.net/publication/3192878_Fingerprint_Image_Enhancement_Algorithm_and_Performance_Evaluation
+      content : The researcher here described what Fingerprint Identification is, the researcher also analyzed the algorithm used in enhancing the fingerprint scanned, transforming it to a higher quality image thus making it more unique. Also, they analyzed and described how the fingerprint identification itself works. The researcher experimented on scanning different fingerprints and used a Goodness index of the fingerprints before and after going through the Enhancement.
+    title: "A Survey of Wet and Wrinkled Finger Print Recognition Techniques"
+      source : (LOCAL) TOPICS-Research\RESEARCH-Files\A Survey of Wet and Wrinkled Finger Print Recognition Techniques
+      content: The researcher described the different types of fingerprints
