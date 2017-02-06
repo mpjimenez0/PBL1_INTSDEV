@@ -30,6 +30,8 @@ Rationale: *why this topic? (2-3 paragraphs)
 		>> The sudden burst on the amount of Online Shops in the Philippines is indeed overwhelming, this made us researchers wonder, why did these entrepreneurs even considered migrating -- if not, extended -- their business to the internet? Problematic for some, "Eureka" for some, but how does it really affect the people providing, consuming, and the country they're in?
 		>>
 Research Questions:
+		> "What are the opportunities and disadvantages that the Entrepreneurs encountered upon migrating to Online Platforms?"
+		> "How important is the role of data as a catalyst for the creation of new services and a source of competitive advantage? Will the notion of privacy need to change?"
 Theoretical & Conceptual Framework: >> TF: Concepts of keywords(not proven) -- definitions *5 theories about summative evaluation* *self-checkout machines* CF: make a diagram using the different TFs
 Research Design:
 Statistical Treatment:
