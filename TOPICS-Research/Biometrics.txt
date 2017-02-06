@@ -35,6 +35,10 @@ Theoretical & Conceptual Framework:
   *TF - 5 Theories of Keywords + Definition
   *CF - Diagram of the TFs
     -> Palmar Hyperhidrosis
+        ~ Hyperhidrosis - Excessive Sweating
+          > Primary Focal Hyperhidrosis - The medical condition of excessive sweating. Focal -- in certain areas only. It is believed that people with Hyperhidrosis has more than one focal point (meaning it happens in more that one part of the body. ex: plantar/feet and palmar/hands = Palmoplantar Hyperhidrosis)
+          > Secondary Generalized Hyperhidrosis - Excessive Sweating caused by a Side-Effect or Medications. Compared to the Primary Focal Hyperhidrosis, Secondary Generalized Hyperhidrosis occurs on bigger/larger areas on your body as opposed with the Primary Focal Hyperhidrosis that only occurs on small parts/segments of your body.
+          > 
     -> Fingerprint Authentication in Smartphones
     -> Touch-Sensitive Display in Smartphones
 Research Design:
