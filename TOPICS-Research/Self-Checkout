@@ -1,6 +1,6 @@
 A Summative Evaluation on the Implementation of Self-Checkout Machines in the Philippines
   >> alt title (according to miss jobelle)
-    Self Checkout Machines : A Third World Country Necessity?
+    Self-Checkout Machines : A Third World Country Necessity?
 
 Target Audience : Groceries, Supermarkets and Hypermarkets in the Philippines
 
@@ -9,10 +9,10 @@ Problem : "What are the Advantages and Disadvantages of the System to the Philip
                 -> Owner
                 -> Economy of the Philippines
                 -> Users"
-          "Is the Philippines ready for the implementation of Self Checkout Systems??"
+          "Is the Philippines ready for the implementation of Self-Checkout Systems??"
 
 Main Goal:
-  --> To show if the Philippines is ready for the changes that Self Checkout Machines will bring
+  --> To show if the Philippines is ready for the changes that Self-Checkout Machines will bring
 
 ---------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Keywords: Self-Check out Machines, Summative Evaluation
 Short Title: Self-Checkout Machines in the Philippines
 Rationale: *why this topic? (2-3 paragraphs)
     >> to find possible __ to help the retail industry in the Philippines
-    >> In the Philippines, there are extremely long lines especially in the Grocery Stores and because of that, we wanted to find a way to reduce the waiting time in lines queues, and as Computer Science students, we wanted to solve this problem in a techy and modern way. Self Checkout Machines are the (customers POV)
+    >> In the Philippines, there are extremely long lines especially in the Grocery Stores and because of that, we wanted to find a way to reduce the waiting time in lines queues, and as Computer Science students, we wanted to solve this problem in a techy and modern way. Self-Checkout Machines are the (customers POV)
     >> (Owners POV)
 Research Questions:
     > "What are the Advantages and Disadvantages of the System to the Philippines"
@@ -29,8 +29,11 @@ Research Questions:
         -> Owner
         -> Economy of the Philippines
         -> Users"
-    > "Is the Philippines ready for the implementation of Self Checkout Systems??"
+    > "Is the Philippines ready for the implementation of Self-Checkout Systems??"
 Theoretical & Conceptual Framework:
+  *TF - 5 Theories of Keywords + Definition
+  *CF - Diagram of the TFs
+    -> Self-Checkout
 Research Design:
 Statistical Treatment:
 
@@ -40,10 +43,10 @@ RESEARCH:
   >RLs
     title: "An Evaluation of Self-Checkout Systems"
       source: http://journals.sagepub.com/doi/pdf/10.1177/154193120705101703
-      content: The self checkout machines are indeed useful still, there are encountered problems such as the barcode not scanning well, as well as the customers pace in making a transaction. 20 students and 39 non-students (a total of 59) answered a survey regarding self-checkout systems. Outputs of the survey focused on the problems encountered while using the said machines. The researcher also provided and suggested possible solutions to the problems stated by the customers. As the researcher concluded the research, he stated that the sample is small thus making it hard to observe any real statistical difference between the student and non student group.
-    title: "Future of Self Checkout a Landscape Study"
+      content: The Self-Checkout machines are indeed useful still, there are encountered problems such as the barcode not scanning well, as well as the customers pace in making a transaction. 20 students and 39 non-students (a total of 59) answered a survey regarding self-checkout systems. Outputs of the survey focused on the problems encountered while using the said machines. The researcher also provided and suggested possible solutions to the problems stated by the customers. As the researcher concluded the research, he stated that the sample is small thus making it hard to observe any real statistical difference between the student and non student group.
+    title: "Future of Self-Checkout a Landscape Study"
       source: http://scet.berkeley.edu/wp-content/uploads/UCB-ELPP-Future-of-Self-Checkout-Report.pdf
       content: This research summarizes all the existing barcode reading technology, also, it features the company NCR because they are the most famous company that features and caters this service. In this research they also computed for the ROI of the company whenever they implemented and produced such machines. The researcher also predicted who will be leading in the next years.
-    title: "Opportunities at Self Checkout"
+    title: "Opportunities at Self-Checkout"
       source: http://www.dechert-hampe.com/images/stories/Opportunities_at_Self_Checkout_120427.pdf
       content:

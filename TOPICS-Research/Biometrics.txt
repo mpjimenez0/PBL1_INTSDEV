@@ -27,12 +27,13 @@ Title: Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smar
 Keywords: Palmar Hyperhidrosis, Biometrics (Fingerprint Authentication) in Smartphones, Touch-Sensitive Display in Smartphones
 Short Title: The use of Smartphones to people with Sweaty Palms
 Rationale: *why this topic? (2-3 paragraphs)
-    >> One of the researchers (who is self diagnosed with Palmar Hyperhidrosis) experience the everyday struggles of using a Smartphone, specifically the Smartphones Touch Sensitive Display. Also, with the existence of Waterproof and Water Resistant Smartphones in the Market that doesn't function well when wet sparked this idea. (P.O.V. of the RESEARCHER / Palmar Hyperhidrosis Affected Individual)
-    >> The current trend in smartphones, Fingerprint Authentication  dramatically increased the level of security that one phone has, but another current trend in smartphones namely Water Resistance somehow revealed the flaws of the Fingerprint Authentication. (P.O.V. of the System)
-    >>
+    >> One of the researchers (who is self diagnosed with Palmar Hyperhidrosis) experience the everyday struggles of using a Smartphone, specifically the Smartphones Touch Sensitive Display. Also, the existence of Waterproof and Water Resistant Smartphones in the Market that doesn't function well when wet sparked this idea. We researchers wanted to analyze the User Experience of people with Palmar Hyperhidrosis while using their smartphones. (P.O.V. of the Researcher / Palmar Hyperhidrosis Affected Individual)
+    >> The current trend in smartphones, Fingerprint Authentication  dramatically increased the level of security that one phone has, but another current trend in smartphones namely Water Resistance somehow revealed the flaws of the Fingerprint Authentication.  (P.O.V. of the System)
 Research Questions:
     >> "How would people with Palmar Hyperhidrosis utilize the functions of their smartphones namely the FINGERPRINT AUTHENTICATION and the TOUCH-SENSITIVE DISPLAY?"
-Theoretical & Conceptual Framework: >> TF: Concepts of keywords(not proven) -- definitions *5 theories about summative evaluation* *self-checkout machines* CF: make a diagram using the different TFs
+Theoretical & Conceptual Framework:
+  *TF - 5 Theories of Keywords + Definition
+  *CF - Diagram of the TFs
     -> Palmar Hyperhidrosis
     -> Fingerprint Authentication in Smartphones
     -> Touch-Sensitive Display in Smartphones
