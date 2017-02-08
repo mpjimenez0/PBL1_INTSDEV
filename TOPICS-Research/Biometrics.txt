@@ -120,6 +120,20 @@ Statistical Treatment:
     title: "Palmar hyperhidrosis: clinical, pathophysiological, diagnostic and therapeutic aspect"
       source: http://www.scielo.br/pdf/abd/v91n6/0365-0596-abd-91-06-0716.pdf
       content: Medicinal terms (tinamad ako basahin wako magets okay?? - marcla) and factors that affect Palmar Hyperhidrosis including Quality of Life and Treatments.
+    title: "Two types of Hyperhidrosis"
+      source: http://www.sweathelp.org/home/types-of-hyperhidrosis.html
+      content:
+        self diagnosis of hyperhidrosis
+          "First, says Glaser, ask yourself if you have experienced focal visible excess sweat for at least six months without apparent cause. If the answer is "yes," then the next step is determining whether you meet at least two of the following criteria:
+
+            > Your sweat is bilateral and relatively symmetrical, meaning you sweat the same on both sides of your body.
+            > Your excess sweat impairs your daily activities.
+            > You experience at least one episode a week.
+            > The onset of your excess sweat is earlier than age 25.
+            > You have a positive family history. (Meaning that other members   of your family suffer from similar sweating problems.)
+            > You stop sweating when you're sleeping.
+
+          If you meet at least two of the above criteria, chances are you have primary focal hyperhidrosis, and you should make an appointment with a dermatologist familiar with treatment options for people with hyperhidrosis. (Check our Physician Finder database for a doctor near you.) Some dermatologists believe upwards of 90 percent of people who present with excessive sweating will be diagnosed with primary hyperhidrosis."
 -------------------------------------------------------------------------
 
 Questionnaire for Palmar Hyperhidrosis
