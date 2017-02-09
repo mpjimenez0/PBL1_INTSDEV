@@ -23,7 +23,7 @@ Main Goal:
 
 ---------------------------------------------------------------------------
 
-Title: Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
+  Title: Biometrics : Fingerprint Authentication / Touch-Sensitive Display in Smartphones to people with Palmar Hyperhidrosis(Sweaty Palms) in Metro Manila
 Keywords: Palmar Hyperhidrosis, Biometrics (Fingerprint Authentication) in Smartphones, Touch-Sensitive Display in Smartphones
 Short Title: The use of Smartphones to people with Sweaty Palms
 Rationale: *why this topic? (2-3 paragraphs)
@@ -36,6 +36,8 @@ Theoretical & Conceptual Framework:
   *CF - Diagram of the TFs
     -> Palmar Hyperhidrosis
         ~ Hyperhidrosis - Excessive Sweating
+          - Factors that Affect Palmar Hyperhidrosis : Anxiety, Embarrassment and Fear <-- disproved
+          - Cause of Hyperhidrosis - Genetics, Puberty, Menopause, Reactions to certain food.
           > Primary Focal Hyperhidrosis - The medical condition of excessive sweating. Focal -- in certain areas only. It is believed that people with Hyperhidrosis has more than one focal point (meaning it happens in more that one part of the body. ex: plantar/feet and palmar/hands = Palmoplantar Hyperhidrosis)
           > Secondary Generalized Hyperhidrosis - Excessive Sweating caused by a Side-Effect or Medications. Compared to the Primary Focal Hyperhidrosis, Secondary Generalized Hyperhidrosis occurs on bigger/larger areas on your body as opposed with the Primary Focal Hyperhidrosis that only occurs on small parts/segments of your body.
           > Match-on-Host - reads the fingerprint, then pushes the data to be processed by the host processor.
@@ -134,6 +136,49 @@ Statistical Treatment:
             > You stop sweating when you're sleeping.
 
           If you meet at least two of the above criteria, chances are you have primary focal hyperhidrosis, and you should make an appointment with a dermatologist familiar with treatment options for people with hyperhidrosis. (Check our Physician Finder database for a doctor near you.) Some dermatologists believe upwards of 90 percent of people who present with excessive sweating will be diagnosed with primary hyperhidrosis."
+-------------------------------------------------------------------------
+
+Background of the Study:
+  Smartphones are hand held devices that functions like a computer. They can receive and make calls, create and receive messages, also, these smartphones has the capability to connect to the internet, making them capable of downloading and running 3rd party apps (downloaded from digital distribution platforms such as Google Play and App Store). Smartphones are first introduced in 1999 by the japanese company NTT DoCoMo, and became widespread a year after. A lot of firms have been competing in the Smartphone Industry, and the competition never stops, every year, new features and innovations were introduced.
+
+Objectives:
+Theoretical Framework:
+  - Disproved Theories
+      = "Excessive sweating occurs when feeling stressed, embarrassed, and scared. "
+  - NOT YET Proved Theories
+      = "Experiencing excessive sweating is linked to Genetics, Puberty, and Menopause"
+  - Accepted Theories
+    source: http://medind.nic.in/maa/t00/i1/maat00i1p27.pdf
+      = Electric Gradient Theory **
+        -iontophoresis disturbed the normal movement of sweat along the sweat duct which flows due to ionic gradient.
+      = Plug Theory **
+        - sweating inhibited through mechanical bloackage of sweat at the level of the stratum corneum, the depth and severity of obstruction being dose related.
+      = CREB Protein Mutation is the cause of Hyperhidrosis
+        - Dephosphorylation of CREB Accelerates at times of stress.
+      =
+    ** both theories have their fallacies with o definite conclusion.
+Conceptual Framework:
+Scope and Limitation:
+Definition of Terms:
+  - Palmar Hyperhidrosis
+    > The condition of excessive and uncontrollable sweating of the hands (palms)
+  - Smartphone
+    > A handheld device with the capabilities of functioning like a computer
+
+Methodology
+  - Research Design
+    > This is a Descriptive Research on the User Experience of people with Sweaty Hands when using their smartphones
+  - Respondents of the Study
+    > The Respondents of this Study are people with Sweaty Hands and Smartphones that reside within Metro Manila
+  - Research Instruments
+    > Testing via Iodine Test
+    > Questionnaire for Palmar Hyperhidrosis
+    > Interviewing the respondents
+  - Procedure
+    https://www.sedl.org/cbam/stages_of_concern.html
+    > We will first look for respondents (people with sweaty hands and smartphones that reside within Metro Manila) and we will let them answer a questionnaire, 70% - 40% of the sample will be interviewed and iodine tested.
+Statistical Treatment
+
 -------------------------------------------------------------------------
 
 Questionnaire for Palmar Hyperhidrosis
