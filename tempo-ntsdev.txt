@@ -95,3 +95,41 @@ THEOREM, ALGORITHM, ANALYTICS.
 				- Look for Algorithms or Theories to be used.
 			> MARCLA
 				- LAHAT NG SHIT SA BIOMETRICS
+
+E-Commerce
+> Research Questions
+> Intro for objectives
+> Procedure
+> Statistical Treatment
+> TF
+> CF
+
+Biometrics
+> Research Questions
+> Procedure (refine)
+> Statistical Treatment
+> TF
+> CF
+
+Self-Checkout
+> Target respondents and market
+> Research Instruments (interview--preference)
+> procedure
+> statistical treatment
+> TF
+> CF
+
+
+Because of this ___-*insert RL*-____ there are still gaps regarding the issue, so our group wanted to venture on this topic.
+
+
+PARA SA PPT DUE FRIDAY,
+- TITLE
+- RATIONALE
+- RESEARCH QUESTIONS
+- THEORETICAL AND CONCEPTUAL FRAMEWORK
+- METHODS
+	> research design
+	> respondents
+	> research instruments
+	> statistical treatment
