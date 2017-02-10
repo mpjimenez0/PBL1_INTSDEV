@@ -96,28 +96,26 @@ THEOREM, ALGORITHM, ANALYTICS.
 			> MARCLA
 				- LAHAT NG SHIT SA BIOMETRICS
 
-E-Commerce
-> Research Questions
-> Intro for objectives
-> Procedure
-> Statistical Treatment
-> TF
-> CF
-
 Biometrics
-> Research Questions
-> Procedure (refine)
-> Statistical Treatment
+> Research Questions (2)
 > TF
 > CF
+> Review Everything
+
+E-Commerce
+> Research Questions (1)
+> TF + yung mga tao nun
+> CF
+> Review Everything
 
 Self-Checkout
-> Target respondents and market
-> Research Instruments (interview--preference)
-> procedure
-> statistical treatment
-> TF
+> TF (onti nalang) + yung mga tao nun
 > CF
+> Target Respondents and Market
+> Refine Research Instruments
+> Procedure
+> Statistical Treatment
+
 
 
 Because of this ___-*insert RL*-____ there are still gaps regarding the issue, so our group wanted to venture on this topic.
