@@ -131,3 +131,20 @@ PARA SA PPT DUE FRIDAY,
 	> respondents
 	> research instruments
 	> statistical treatment
+
+	Title
+	Keywords
+	Short Title
+	Rationale
+	Background of the Study
+	Research Questions
+	Objectives
+	Theoretical Framework
+	Conceptual Framework
+	Scope and Limitations
+	Definition of Terms
+	Research Design
+	Respondents of the Study
+	Research Instruments
+	Procedures
+	Statistical Treatment
